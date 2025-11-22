@@ -1,0 +1,7 @@
+#conda activate venv/ - to activate the enviorment
+pandas
+numpy
+flask
+seaborn
+
+
