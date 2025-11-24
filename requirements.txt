@@ -1,7 +1,20 @@
-#conda activate venv/ - to activate the enviorment
+#venv\Scripts\activate
+#python -m src.pipelines.training_pipeline
+#python -m application - to run the main flask application
+#http://127.0.0.1:5000/predict - to test the predict api endpoint
+# Install the required packages
 pandas
 numpy
 flask
 seaborn
+matplotlib
+scikit-learn
+jupyter
+joblib
+notebook
+ipykernel
+flask-cors
+
+
 
 
