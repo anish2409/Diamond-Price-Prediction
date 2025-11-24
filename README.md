@@ -122,6 +122,6 @@ Licensed under MIT License.
 
 ✦ Anish Das
 
-📧 anishdasad2003@0374
+📧 anishdasad2003@gmail.com
 
 ⭐ If this project helped you — please star the repo!
