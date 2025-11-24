@@ -1,4 +1,4 @@
-💎  # Diamond Price Prediction using Machine Learning 💎
+💎  **Diamond Price Prediction using Machine Learning** 💎
 
 This is an end-to-end machine learning project that predicts the price of a diamond based on its physical and categorical properties. The model is trained using multiple regression algorithms, and the best-performing model is selected automatically.
 
